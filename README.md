@@ -2,7 +2,7 @@
 HTML and CSS
 
 ## Website Link
-[wait lang]  
+[My Portfolio](https://cmsc100-laboratory.github.io/02-my-github-page-kare2x/)
 
 ## Author
 Hans Andrie Q. Shi  
