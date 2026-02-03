@@ -16,3 +16,4 @@ BS Computer Science
 ## Key Takeaways from this exercise
 
 ## References
+[link](https://docs.google.com/document/d/1gcfJ_YAX76JDj5RF68QV88RJ3Sm5fLH6CLqXqn-xoBY/edit?usp=sharing)
